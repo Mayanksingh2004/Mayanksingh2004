@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mayanksingh2004
+- 👋 Hi, I’m @Mayanksingh3
 - 👀 I’m interested in Fullstack Development and Machine Learning
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any project related fullstack and machine learning
